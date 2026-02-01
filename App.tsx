@@ -9,7 +9,7 @@ const App: React.FC = () => {
   // Configuration for the user
   const [config] = useState({
     partnerName: "Salena",
-    userName: "Alex",
+    userName: "Jeffery",
     startDate: new Date('2025-02-02T00:00:00'),
   });
 
@@ -28,7 +28,7 @@ const App: React.FC = () => {
       {/* Navigation */}
       <nav className="fixed top-0 left-0 right-0 z-50 bg-white/70 backdrop-blur-md border-b border-rose-100">
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
-          <span className="font-romantic text-2xl text-rose-600 font-bold">Our Story</span>
+          <span className="font-romantic text-2xl text-rose-600 font-bold">lil tweaker</span>
           <div className="flex gap-6 text-rose-700 font-medium text-sm md:text-base">
             <a 
               href="#home" 
@@ -60,8 +60,7 @@ const App: React.FC = () => {
             Happy Anniversary, {config.partnerName}!
           </h1>
           <p className="text-xl md:text-2xl font-serif-elegant text-rose-700 mb-12 italic leading-relaxed">
-            Every second spent with you feels like a dream I never want to wake up from. 
-            Here is to all the moments we've shared and the eternity yet to come.
+            I really enjoyed being with you 
           </p>
           
           <AnniversaryTimer startDate={config.startDate} />
