@@ -1,0 +1,7 @@
+{
+  "name": "Eternal Rose - Anniversary Celebration",
+  "description": "A sophisticated, romantic single-page website to celebrate a special anniversary, featuring a relationship timeline and memory gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
