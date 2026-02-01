@@ -45,32 +45,32 @@ export const INITIAL_MILESTONES: Milestone[] = [
 export const INITIAL_MEMORIES: Memory[] = [
   {
     id: 'm1',
-    url: './components/pictures/IMG_8486.JPG',
+    url: '/salenaversary/images/IMG_8486.jpg',
     caption: 'First Rave KO2025',
   },
   {
     id: 'm2',
-    url: './components/pictures/IMG_8606.JPG',
+    url: './salenaversary/images/IMG_8606.JPG',
     caption: 'Kids Go Dating',
   },
   {
     id: 'm3',
-    url: './components/pictures/IMG_9153.JPG',
+    url: '/salenaversary/images/IMG_9153.JPG',
     caption: 'Bumped Into Each Other Randomly At Sanct',
   },
   {
     id: 'm6',
-    url: './components/pictures/IMG_2594.JPG',
+    url: '/salenaversary/images/IMG_2594.jpg',
     caption: 'Mog',
   },
   {
     id: 'm4',
-    url: './components/pictures/IMG_3756.JPG',
+    url: '/salenaversary/images/IMG_3756.jpg',
     caption: 'Salena Goes WAO Halloween',
   },
   {
     id: 'm5',
-    url: './components/pictures/IMG_4962.JPG',
+    url: '/salenaversary/images/IMG_4962.jpg',
     caption: 'HTID 2026',
   },
 ];
